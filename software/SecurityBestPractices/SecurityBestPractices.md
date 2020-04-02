@@ -4,6 +4,12 @@ Security Slack channel: #skill-infosec
 
 As all teams are rushing to bring their solutions to production, we need to ensure that we are properly protecting all data that we capture and store.  A security breach could severly reduce trust in what we are building and impact our ability to help those in need.  The central Helpful Engineering organization is here to provide guidance and resources to help secure your project.  
 
+Services offered by the infosec team
+* Security design review
+* Security code review (limited capacity)
+* Penetration testing
+* Vulnerability remediation consulting
+
 Protecting PII checklist:
 * Identify PII
 * Identify PII storage locations

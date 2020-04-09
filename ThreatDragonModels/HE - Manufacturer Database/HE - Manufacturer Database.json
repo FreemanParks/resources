@@ -1,0 +1,11 @@
+{
+  "summary": {
+    "title": "HE - Manufacturer Database",
+    "owner": "Freeman Parks",
+    "description": "We want to make it easy to find volunteers who are offering their manufacturing service. So find nearby 3D printers, laser cutters and so on.\n\nThe output is a structured database of volunteers and a site to easily find nearby volunteers."
+  },
+  "detail": {
+    "contributors": [],
+    "diagrams": []
+  }
+}
